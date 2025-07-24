@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HPYusingThread{
+public class HNYusingThread{
 
     public static void main(String[] args) throws InterruptedException{
 
