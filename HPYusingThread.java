@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) throws InterruptedException{
 
+        //To print "Happy New Year" using Thread
+
         int start = 10;
 
         for(int i = start;i>0;i--){
